@@ -1,4 +1,4 @@
-class Config(object):
+class Development(object):
     LOGGER = True
     API_KEY = "9223891600:AAGKabzAlCU3MJNAXWWDajkoE39ZmMIi9ZE"
     OWNER_ID = "8764784695"
